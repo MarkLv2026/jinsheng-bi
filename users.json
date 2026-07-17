@@ -1,0 +1,16 @@
+{
+  "admin_email": "admin@example.com",
+  "users": {
+    "admin": {
+      "password_hash": "43283e7a1cebd64d8e1da61f1c6c825ca140a688682b23298fc11a28eff3588f",
+      "role": "admin",
+      "display_name": "管理员"
+    },
+    "viewer": {
+      "password_hash": "cdb58e2b5e6f5be1c6c03bac19dd593c0167354137ff57dbf6aa9a94496885e8",
+      "role": "viewer",
+      "display_name": "浏览者",
+      "expire_date": "2027-12-31"
+    }
+  }
+}
